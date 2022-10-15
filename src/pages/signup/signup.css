@@ -1,0 +1,61 @@
+.container-signup{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        flex-direction: column;
+}
+.logo2-signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: auto;
+    border-radius: 100px;
+}
+.titulo-signup{
+    color: #cbd0f7;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#txt,#email,#password,#name,#confirm-password{   
+    border-radius: 10px;
+    background-color: #252A34;
+    color: #cbd0f7;
+    border:none;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+p{
+    color: #cbd0f7;
+}
+#btnCadastrar,#btnGoogle{
+    color: #cbd0f7;
+    background-color: #252A34;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-right: 100px;
+    border:none;
+}
+.signup2{
+    background-color: #181920;
+    width: 400px;
+    height: 700px;
+    padding: 35px;
+    border-radius: 30px;
+}
+buttons-signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+}
